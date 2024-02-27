@@ -1,0 +1,7 @@
+C:\Users\vutie\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.exe
+C:\Users\vutie\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.dll
+C:\Users\vutie\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.deps.json
+C:\Users\vutie\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
+C:\Users\vutie\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.pdb
+C:\Users\vutie\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\SqlInjectionChecker.dll
+C:\Users\vutie\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\SqlInjectionChecker.pdb
